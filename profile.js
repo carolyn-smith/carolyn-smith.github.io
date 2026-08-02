@@ -15,7 +15,7 @@ const studentProfile = {
 
   tagline: "DREAM-High Scholar | Computational Biology Portfolio",
 
-  bio: "Hi, my name is Carolyn and I'm a rising senior from San Diego, CA. My favorite subject is biology, and I'm especially interested in cancer biology and precision medicine. I hope to learn more about how R and Python can be used to analyze cancer datasets in DREAM-High. I'm excited to explore the interdisciplinary aspects of computational biology, and how multiple fields such as data science, computer science, math, and biology can be combined.",
+  bio: "Hi! I'm Carolyn, a rising senior interested in biology, cancer research, and precision medicine. Through DREAM-High, I'm learning how to use R to analyze cancer datasets and identify patterns in gene expression. I'm especially interested in the interdisciplinary aspects of systems biology, where multiple fields such  as data science, computer science, mathematics, and biology work together to find solutions for the complex problems in our world..",
 
   /*
   Optional photo:
